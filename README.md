@@ -58,3 +58,28 @@ in this case, the classes are:
 .t-left   : Text in the box left-aligned
 .t-right  : Text in the box right-aligned
 .t-center : Text in the box center-aligned
+
+
+
+
+.:UTILITY CLASSESS:..........
+.clearfix : clearfix :)
+
+
+
+
+.:CLARIFICATIONS AND EXAMPLE:..........
+ ______________
+|.M____________|
+ ______________
+|.M____________|
+
+ ______________   ______________
+|.M.left_______| |.M.left_______|
+
+ _______________________________
+|.XL____________________________|
+ ______________   ______________
+|.M.left_______| |.M.left_______|
+ __________   __________________
+|.S.left___| |.L.left___________|
